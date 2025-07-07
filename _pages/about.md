@@ -12,7 +12,7 @@ Agent, and their applications in marketing and business.
 
 I hold an MSc with Distinction in Computer Science with AI (one year of taught courses and one year of research), along with a First-Class Honours BA in Business Management. 
 
-Outside of academia, I love coding, watching anime and TV series, hiking, and exploring new coffee and book shops. My long-term goal is to become a professor and share my passion for AI and marketing with future students and researchers.
+Outside of academia, I love coding, watching anime and TV series, hiking, and exploring new coffee and book shops. My long-term goal is to become a professor and share my passion for AI and Business with future students and researchers.
 
 Feel free to browse my research and CV on this website.
 
