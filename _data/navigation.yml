@@ -10,7 +10,8 @@
 main:
   - title: "Research"
     url: /publications/
-
+  - title: "CV"
+      url: /cv/
   - title: "Presentation"
     url: /talks/    
 
@@ -25,9 +26,7 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  
     
   # - title: "CV"
   #   url: /cv-json/
