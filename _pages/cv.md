@@ -42,31 +42,21 @@ developed the Masked Autheconder Model to do data augmentation for time series d
   
 Research Impact
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I have developed the following public text mining tool for marketing research and practices:
+* Communication Style: [Link](https://huggingface.co/CommunicationStyle/Communication_Style) (Total downloads times: 51,402, verifying download times by this [Offical API Link](https://huggingface.co/api/models/CommunicationStyle/Communication_Style?expand[]=downloadsAllTime)
+* Influence Tactic: [Link](https://huggingface.co/InfluenceTactics/Influence_Tactic_Paper) (Total downloads times: 313, verifying download times by this [Offical API Link](https://huggingface.co/api/models/InfluenceTactics/Influence_Tactic_Paper?expand[]=downloadsAllTime)
+* Process and Outcome: [Link](https://huggingface.co/ProcessOutcomePaper/ProcessOutcome) (Total downloads times: 87, verifying download times by this [Offical API Link](https://huggingface.co/api/models/ProcessOutcomePaper/ProcessOutcome?expand[]=downloadsAllTime)
 
-Publications
+Funding
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Misinformation and Large Language Model, Google Cloud research credits. Amount: $1000. From Jan 2025 to Jan 2026.
+* Alliance Manchester Business School Full PhD Scholarships (4 years). From Sep 2022 to Sep 2026.
   
-Talks
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Languages: Python, R, SQL, JavaScript, HTML/CSS
+* Machine Learning Framework: Pytorch, TensorFlow
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English (Advanced), Mandarin (Native), Sichuan dialect (my mother tongue, haha)
