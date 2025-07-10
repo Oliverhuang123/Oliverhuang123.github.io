@@ -57,4 +57,4 @@ Technical Skills
   
 Languages
 ======
-* English (Advanced), Mandarin (Native)
+* English (Advanced), Mandarin (Native).
