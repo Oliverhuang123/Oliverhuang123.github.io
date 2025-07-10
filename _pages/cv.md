@@ -57,4 +57,4 @@ Technical Skills
   
 Languages
 ======
-* English (Advanced), Mandarin (Native), Sichuan dialect (my mother tongue, haha)
+* English (Advanced), Mandarin (Native)
