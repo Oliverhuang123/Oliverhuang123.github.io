@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Business Management (Focus on Marketing and Information System), University of Manchester (UK), 2026 (expected)
 * M.S. in Computer Science with Artificial Intelligence (one year taught + one year research), University of Nottingham (UK), 2022
+  
 
 Research experience
 ======
@@ -57,4 +58,4 @@ Technical Skills
   
 Languages
 ======
-* English (Advanced), Mandarin (Native).
+* English (Advanced), Mandarin (Native)
