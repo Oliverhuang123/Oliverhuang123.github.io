@@ -10,25 +10,24 @@
 main:
   - title: "Research"
     url: /publications/
-    
-  - title: "CV"
-      url: /cv/
-      
+
   - title: "Presentation"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/ 
 
-  # - title: "About me"
-  #   url: /about/
+  - title: "About me"
+    url: /about/
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  
+    
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
