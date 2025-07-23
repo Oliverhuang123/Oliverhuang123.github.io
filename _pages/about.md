@@ -23,5 +23,5 @@ Thank you for visiting!
 
 
 ## Visitors Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&cl=ffffff&w=80&h=60"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&cl=ffffff&w=80&h=60"></script> -->
 
