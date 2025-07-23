@@ -19,5 +19,5 @@ Feel free to browse my research and CV on this website.
 Thank you for visiting!
 
 ## Visitors Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eA5xcTFMwdBZ7-AsdnfGEKEHVU1pLQFIPvzHIKAl1rA&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&cl=ffffff&w=a"></script>
 
