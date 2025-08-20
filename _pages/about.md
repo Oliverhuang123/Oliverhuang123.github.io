@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and Welcome! My name is Guowei Huang. I am currently a PhD candidate in Applied Machine Learning in Marketing and Information Systems at Alliance Manchester Business School, University of Manchester. My research interests are Large Language Model, Deep Learning, Natural Language Processing, AI
+Hello and Welcome! My name is Guowei Huang. I am currently a PhD candidate in Applied AI in Business at Alliance Manchester Business School, University of Manchester. My research interests are Large Language Model, Deep Learning, Natural Language Processing, AI
 Agent, and their applications in marketing and business.
 
 I hold an MSc with Distinction in Computer Science with AI (one year of taught courses and one year of research), along with a First-Class Honours BA in Business Management. 
