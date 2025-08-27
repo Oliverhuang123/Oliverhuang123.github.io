@@ -22,3 +22,11 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 </div>
 
 - <strong>06/2025</strong>. <strong>New Publication</strong>: The impact of influence tactics on brand message sharing. Article: <a href="https://doi.org/10.1016/j.jbusres.2025.115497" target="_blank">Publication</a>.
+
+
+
+
+
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&w=250&h=250"></script>
