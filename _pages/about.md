@@ -20,7 +20,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 
 
 
-- <strong>12/2025</strong>. <strong>News</strong>: Our project and I were interviewed and featured by Science in <i>Science</i>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>.
+- <strong>12/2025</strong>. <strong>News</strong>: Our project and I were interviewed and featured by <i>Science</i>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>.
 
 
 - <strong>09/2025</strong>. <strong>News Report</strong>: Our research received public coverage in MIT Technology Review China. Article: <a href="https://www.mittrchina.com/news/detail/15232" target="_blank">News article</a>.
