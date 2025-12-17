@@ -16,6 +16,13 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 
 ## News
 
+- <strong>12/2025</strong>. <strong>New Publication</strong>: "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by Journal of Small Business Managementh (ABS3), Forthcoming.
+
+
+
+- <strong>12/2025</strong>. <strong>News</strong>: Our project and I were interviewed and featured by Science in <i>Science<\i>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>.
+
+
 - <strong>09/2025</strong>. <strong>News Report</strong>: Our research received public coverage in MIT Technology Review China. Article: <a href="https://www.mittrchina.com/news/detail/15232" target="_blank">News article</a>.
 
 
@@ -24,7 +31,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
   <img src="/images/Twitter.png" alt="It has got some attention on X" width="400" style="border-radius: 10px; margin: 20px 0;">
 </div>
 
-- <strong>06/2025</strong>. <strong>New Publication</strong>: The impact of influence tactics on brand message sharing. Article: <a href="https://doi.org/10.1016/j.jbusres.2025.115497" target="_blank">Publication</a>.
+- <strong>06/2025</strong>. <strong>New Publication</strong>: "The impact of influence tactics on brand message sharing" has been accept by Journal of Business Research (ABS3). Article: <a href="https://doi.org/10.1016/j.jbusres.2025.115497" target="_blank">Publication</a>.
 
 
 <br>
