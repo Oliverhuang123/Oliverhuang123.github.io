@@ -20,9 +20,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 
 
 
-- <strong>12/2025</strong>. Our project and I were interviewed and featured by <strong><i>Science</i></strong>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>.
-    
-Reference: Zhao, C. (2025). A new preprint server welcomes papers written and reviewed by AI. <i>Science</i>, 390(6779), 1202-1203.
+- <strong>12/2025</strong>. Our project and I were interviewed and featured by <strong><i>Science</i></strong>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>. (Reference: Zhao, C. (2025). A new preprint server welcomes papers written and reviewed by AI. <i>Science</i>, 390(6779), 1202-1203.)
 
 - <strong>09/2025</strong>.Our research received public coverage in <strong><i>MIT Technology Review </i></strong>(China). Article: <a href="https://www.mittrchina.com/news/detail/15232" target="_blank">News article</a>.
 
