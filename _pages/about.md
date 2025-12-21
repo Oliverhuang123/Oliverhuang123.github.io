@@ -16,7 +16,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 
 ## News
 
-- <strong>12/2025</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management</i></strong>(ABS3), Forthcoming.
+- <strong>12/2025</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management</i></strong> (ABS3,IF:6), Forthcoming.
 
 
 
@@ -31,7 +31,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
   <img src="/images/Twitter.png" alt="It has got some attention on X" width="400" style="border-radius: 10px; margin: 20px 0;">
 </div>
 
-- <strong>06/2025</strong>. "The impact of influence tactics on brand message sharing" has been accept by <strong><i>Journal of Business Research</i></strong> (ABS3). Article: <a href="https://doi.org/10.1016/j.jbusres.2025.115497" target="_blank">Publication</a>.
+- <strong>06/2025</strong>. "The impact of influence tactics on brand message sharing" has been accept by <strong><i>Journal of Business Research</i></strong> (ABS3,IF:9.8). Article: <a href="https://doi.org/10.1016/j.jbusres.2025.115497" target="_blank">Publication</a>.
 
 
 <br>
