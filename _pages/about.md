@@ -16,7 +16,7 @@ Outside of academia, I love coding, watching anime and TV series, hiking, and ex
 
 ## News
 
-- <strong>12/2025</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management<\i><\strong>(ABS3), Forthcoming.
+- <strong>12/2025</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management</i></strong>(ABS3), Forthcoming.
 
 
 
