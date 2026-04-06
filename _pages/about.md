@@ -15,11 +15,14 @@ I hold an MSc with Distinction in Computer Science with AI (one year of taught c
 
 ## News
 
+- <strong>2/2026</strong>. Our project Aixiv is featured by <strong><i>Nature</i></strong>. Article: <a href="[https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai](https://www.nature.com/articles/d41586-025-03967-9)" target="_blank">News article</a>. (Gibney, E. (2026). How AI slop is causing a crisis in computer science. <i>Nature</i>)
+
+
 - <strong>1/2026</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management</i></strong> (ABS3,IF:6). Article: <a href="https://doi-org.manchester.idm.oclc.org/10.1080/00472778.2025.2607504" target="_blank">Publication</a>.
 
 
 
-- <strong>12/2025</strong>. Our project and I were interviewed and featured by <strong><i>Science</i></strong>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>. (Reference: Zhao, C. (2025). A new preprint server welcomes papers written and reviewed by AI. <i>Science</i>, 390(6779), 1202-1203.)
+- <strong>12/2025</strong>. Our project Aixiv and I were interviewed and featured by <strong><i>Science</i></strong>. Article: <a href="https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai" target="_blank">News article</a>. (Reference: Zhao, C. (2025). A new preprint server welcomes papers written and reviewed by AI. <i>Science</i>, 390(6779), 1202-1203.)
 
 - <strong>09/2025</strong>.Our research received public coverage in <strong><i>MIT Technology Review </i></strong>(China). Article: <a href="https://www.mittrchina.com/news/detail/15232" target="_blank">News article</a>.
 
