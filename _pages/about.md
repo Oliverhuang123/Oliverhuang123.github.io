@@ -15,7 +15,7 @@ I hold an MSc with Distinction in Computer Science with AI (one year of taught c
 
 ## News
 
-- <strong>2/2026</strong>. Our project Aixiv is featured by <strong><i>Nature</i></strong>. Article: <a href="[https://www.science.org/content/article/new-preprint-server-welcomes-papers-written-and-reviewed-ai](https://www.nature.com/articles/d41586-025-03967-9)" target="_blank">News article</a>. (Gibney, E. (2026). How AI slop is causing a crisis in computer science. <i>Nature</i>)
+- <strong>2/2026</strong>. Our project Aixiv is featured by <strong><i>Nature</i></strong>. Article: <a href="[(https://www.nature.com/articles/d41586-025-03967-9"] target="_blank">News article</a>. (Gibney, E. (2026). How AI slop is causing a crisis in computer science. <i>Nature</i>)
 
 
 - <strong>1/2026</strong>. "Unlocking Crowdfunding Success: Leveraging Selling Perspectives and Influence Tactics for Optimal Performance" has been accept by <strong><i>Journal of Small Business Management</i></strong> (ABS3,IF:6). Article: <a href="https://doi-org.manchester.idm.oclc.org/10.1080/00472778.2025.2607504" target="_blank">Publication</a>.
