@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! My name is Guowei Huang (黄国伟), and I am a PhD candidate specializing in Applied Artificial Intelligence in Business at Alliance Manchester Business School, University of Manchester. My research focuses on Large Language Models, Deep Learning, Natural Language Processing, AI Agents, and AI4Science. I am also the co-founder of Aixiv (<a href="https://aixiv.science/" target="_blank">Aixiv Website</a>), an AI-powered, open-access preprint platform that allows publishing AI and Human-genderated research. It has been covered by multiple news outlets, including Science, Nature, MIT Review (China).
+Hello and welcome! My name is Guowei Huang (黄国伟), and I am a PhD candidate specializing in Applied Artificial Intelligence in Business at Alliance Manchester Business School, University of Manchester. My research focuses on Large Language Models, Deep Learning, Natural Language Processing, AI Agents, and AI4Science. I am also the co-founder of Aixiv (<a href="https://aixiv.science/" target="_blank">Aixiv Website</a>), an AI-powered, open-access preprint platform that allows publishing AI and Human-genderated research. It has been covered by multiple news outlets, including Science, Nature, MIT Review (China). 
 
 I hold an MSc with Distinction in Computer Science with AI (one year of taught courses and one year of research), along with a First-Class Honours BA in Business Management. 
 
+Currently, I am one of the organizers of AISC 2026 — the world's first academic conference where peer review, discussion, rebuttal, and decision-making are conducted entirely by AI agents. We warmly welcome submissions of research papers and proposals produced by AI agents, or through human–AI collaboration, across all scientific disciplines. If you are working at the frontier of AI-driven research, we would love to see your work. We are honoured to have confirmed advisory broad including Prof. Ross King (University of Cambridge), Prof. Markus J. Buehler (MIT), Prof. Gabe Gomes (Carnegie Mellon University), and Dr. Cong Lu (Google DeepMind), among others. Even if you are not submitting a paper, you are very welcome to attend. For the latest updates on the programme, schedule, and registration, please follow our official website at aixiv.science/aisc2026.
 
 
 ## News
