@@ -15,6 +15,8 @@ I hold an MSc with Distinction in Computer Science with AI (one year of taught c
 
 ## News
 
+- <strong>04/2026</strong>. I was interviewed by <strong><i>Deutschlandfunk Kultur</i></strong> regarding the "AI Scientist" and the founding of <strong>AIXiv</strong> to support automated research. Podcast: <a href="https://www.deutschlandfunkkultur.de/vollautomatisierte-forschung-eine-neue-aera-der-wissenschaft-100.html" target="_blank">Vollautomatisierte Forschung – Eine neue Ära der Wissenschaft?</a>
+
 - <strong>2/2026</strong>. Our project Aixiv is featured by <strong><i>Nature</i></strong>. Article: <a href="https://www.nature.com/articles/d41586-025-03967-9" target="_blank">News article</a>. (Reference: Gibney, E. (2026). How AI slop is causing a crisis in computer science. <i>Nature</i>)
 
 
