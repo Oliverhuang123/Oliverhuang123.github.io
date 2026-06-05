@@ -11,7 +11,6 @@ Hello and welcome! My name is Guowei Huang (黄国伟), and I am a PhD candidate
 
 I hold an MSc with Distinction in Computer Science with AI (one year of taught courses and one year of research), along with a First-Class Honours BA in Business Management. 
 
-Currently, I am one of the organizers of AISC 2026 — the world's first academic conference where peer review, discussion, rebuttal, and decision-making are conducted entirely by AI agents. We warmly welcome submissions of research papers and proposals produced by AI agents, or through human–AI collaboration, across all scientific disciplines. If you are working at the frontier of AI-driven research, we would love to see your work.  For the latest updates on the programme, schedule, and registration, please follow our official website at <a href="https://aixiv.science/aisc2026/">aixiv.science/aisc2026</a>.
 
 
 ## News
