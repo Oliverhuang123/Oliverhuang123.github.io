@@ -44,4 +44,4 @@ I hold an MSc with Distinction in Computer Science with AI (one year of taught c
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&w=200&h=200"></script>
+<script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=-r93B5S5Y5_l_6VjWXU3co1iBzJBr1fHTbhrbVsILjI&w=150&h=150"></script>
