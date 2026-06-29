@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! I am Guowei Huang (黄国伟), a PhD candidate in Applied Artificial Intelligence in Business at Alliance Manchester Business School, University of Manchester. My research focuses on Large Language Models, Deep Learning, NLP, AI Agents, and AI4Science. I am also the co-founder of Aixiv (<a href="https://aixiv.science/" target="_blank">Aixiv Website</a>), an AI-powered open-access preprint platform for AI- and human-generated research, and the creator of Literature Search <a href="https://www.llmmkt.com/index.html" target="_blank"> Literature Search </a>, a free non-profit LLM-powered platform for business and management research.
+Hello and welcome! I am Guowei Huang (黄国伟), a PhD candidate in Applied Artificial Intelligence in Business at Alliance Manchester Business School, University of Manchester. I am currently a Visiting Research Associate in the Marketing Group at the University of Basel, Switzerland.
+
+My research focuses on Large Language Models, Deep Learning, NLP, AI Agents, and AI4Science. I am also the co-founder of Aixiv (<a href="https://aixiv.science/" target="_blank">Aixiv Website</a>), an AI-powered open-access preprint platform for AI- and human-generated research, and the creator of Literature Search <a href="https://www.llmmkt.com/index.html" target="_blank"> Literature Search </a>, a free non-profit LLM-powered platform for business and management research.
 
 I hold an MSc with Distinction in Computer Science with AI, along with a First-Class Honours BA in Business Management. 
 
