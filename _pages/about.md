@@ -16,6 +16,7 @@ I hold an MSc with Distinction in Computer Science with AI, along with a First-C
 
 
 ## News
+- * <strong>07/2026</strong>. Our article, “<a href="https://link.springer.com/article/10.1007/s11747-026-01181-1" target="_blank"><strong>Process and Outcome Frames in Firms’ Environmental Posts and Consumer Engagement</strong></a>,” was published in the <strong><i>Journal of the Academy of Marketing Science</i></strong> (<strong>FT50; ABS 4*</strong>).
 
 - <strong>04/2026</strong>. I was interviewed by <strong><i>Deutschlandfunk Kultur</i></strong> regarding the "AI Scientist" and the founding of <strong>AIXiv</strong> to support automated research. Podcast: <a href="https://www.deutschlandfunkkultur.de/vollautomatisierte-forschung-eine-neue-aera-der-wissenschaft-100.html" target="_blank">Vollautomatisierte Forschung – Eine neue Ära der Wissenschaft?</a>
 
