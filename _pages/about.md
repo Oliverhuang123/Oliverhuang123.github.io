@@ -16,7 +16,7 @@ I hold an MSc with Distinction in Computer Science with AI, along with a First-C
 
 
 ## News
--  <strong>09/2026</strong>. Our article, “<a href="https://www.nature.com/articles/d41586-026-02961-z" target="_blank"><strong>AI can widen science — but only if institutions stop rewarding the already measurable</strong></a>,” was published in <strong><i>Nature</i></strong>.
+-  <strong>09/2026</strong>. Our article, “<a href="https://www.nature.com/articles/d41586-026-02961-z" target="_blank"><strong>AI can widen science — but only if institutions stop rewarding the already measurable</strong></a>,” was published in <strong><i>Nature</i></strong> (<strong>Top Scientific Journal</strong>).
 
 - <strong>08/2026</strong>. Our article, “<a href="https://journals.sagepub.com/doi/10.1177/10946705261464327" target="_blank"><strong>When Customers Imagine Better Outcomes in Negative Online Reviews: Upward Counterfactual Thinking, Firm Recovery Strategies, and Prospective Customer Responses</strong></a>,” was published in the <strong><i>Journal of Service Research</i></strong> (<strong>ABS 4</strong>)
 
