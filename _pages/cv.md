@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="cv-list">
 <div class="cv-entry">
-<div class="cv-entry__when">Present</div>
+<div class="cv-entry__when">2026 &ndash; Present</div>
 <div class="cv-entry__body">
 <h3>Postdoctoral Researcher</h3>
 <p class="cv-entry__org">Marketing Group, University of Basel, Switzerland</p>
