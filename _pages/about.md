@@ -42,7 +42,7 @@ redirect_from:
 <ol class="news">
 <li class="news__item">
 <div class="news__meta"><time class="news__date" datetime="2026-09">Sep 2026</time><span class="news__kind">Publication</span></div>
-<div class="news__body"><p>Our article, &ldquo;<a class="news__title" href="https://www.nature.com/articles/d41586-026-02961-z" target="_blank" rel="noopener">AI can widen science &mdash; but only if institutions stop rewarding the already measurable</a>,&rdquo; was published in <em>Nature</em>.</p></div>
+<div class="news__body"><p>Our article, &ldquo;<a class="news__title" href="https://www.nature.com/articles/d41586-026-02961-z.pdf" target="_blank" rel="noopener">AI can widen science &mdash; but only if institutions stop rewarding the already measurable</a>,&rdquo; was published in <em>Nature</em>.</p></div>
 </li>
 <li class="news__item">
 <div class="news__meta"><time class="news__date" datetime="2026-08">Aug 2026</time><span class="news__kind">Publication</span></div>
